@@ -1,5 +1,7 @@
 ﻿# 西北工业大学学位论文 `modern-npu-thesis`
 
+> This project provides a Typst thesis template for Northwestern Polytechnical University.
+
 西北工业大学毕业论文（设计）的 Typst 模板，能够简洁、快速、持续生成 PDF 格式的毕业论文。
 
 本项目目前仅支持硕博论文模板，后续计划加入对本科论文的支持。
